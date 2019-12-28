@@ -1,5 +1,6 @@
 package java_code; // 112119    one
 
 public class Person {
-    int age; // 1
+    private int age; // 1
+    private String firstName; // 2
 }
