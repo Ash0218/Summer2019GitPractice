@@ -10,3 +10,4 @@ pink
 white
 orange
 cyan
+Azure
