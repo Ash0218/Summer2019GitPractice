@@ -9,3 +9,4 @@ navy blue
 pink
 white
 orange
+cyan
