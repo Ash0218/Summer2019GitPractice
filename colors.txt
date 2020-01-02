@@ -10,5 +10,4 @@ white
 orange
 cyan
 Azure
-Cyber yellow
-gold
+French rose
