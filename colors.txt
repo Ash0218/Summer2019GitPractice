@@ -1,5 +1,4 @@
 blue
-
 red
 green
 black
@@ -11,3 +10,5 @@ white
 orange
 cyan
 Azure
+Cyber yellow
+gold
