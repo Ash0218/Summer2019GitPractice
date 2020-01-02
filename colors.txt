@@ -8,3 +8,4 @@ purple
 navy blue
 pink
 white
+orange
